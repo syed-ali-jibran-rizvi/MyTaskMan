@@ -1,8 +1,10 @@
-# Smart Task Management App
+# Smart Task Management App by Syed Ali Jibran Rizvi, Amity University Lucknow
 
 ## Overview
 
 The **Smart Task Management Android App** is designed to revolutionize how users manage their daily tasks through the use of **AI-powered task prioritization** and **context-aware scheduling**. The app dynamically adapts to real-time contextual data, such as user location, activity, and time, to intelligently rank and schedule tasks. This project leverages advanced machine learning models and provides a highly personalized experience for users, all while maintaining strong privacy standards.
+
+**THE APP IS STILL UNDER DEVELOPMENT PHASE**
 
 
 
@@ -24,6 +26,6 @@ The **Smart Task Management Android App** is designed to revolutionize how users
 3. **Task Prioritization**: Tasks are ranked using a custom prioritization logic that factors in urgency, importance, and real-time context.
 4. **Dynamic Scheduling**: High-priority tasks are scheduled for completion based on user availability, with tasks and priorities updated dynamically.
 
-![Use Case](./images/Picture3.png) <!-- Replace with actual image path -->
-![DFD Level 0](./images/Picture1.png) <!-- Replace with actual image path -->
-![DFD Level 1](./images/Picture2.png) <!-- Replace with actual image path -->
+![Use Case]([./images/Picture3.png](https://github.com/syed-ali-jibran-rizvi/MyTaskMan/blob/master/images/Picture1.jpg)) <!-- Replace with actual image path -->
+![DFD Level 0]([./images/Picture1.png](https://github.com/syed-ali-jibran-rizvi/MyTaskMan/blob/master/images/Picture1.jpg)) <!-- Replace with actual image path -->
+![DFD Level 1]([./images/Picture2.png](https://github.com/syed-ali-jibran-rizvi/MyTaskMan/blob/master/images/Picture1.jpg)) <!-- Replace with actual image path -->
