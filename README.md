@@ -20,7 +20,7 @@ The **Smart Task Management Android App** is designed to revolutionize how users
 ## How It Works
 
 1. **Context Collection**: The app gathers contextual data (location, time, and user activity) in real time.
-2. **Context Analysis**: Using the **Hugging Face LLM API**, the system evaluates the relevance and urgency of tasks based on the user's current context.
+2. **Context Analysis**: Using the **Gemini LLM API**, the system evaluates the relevance and urgency of tasks based on the user's current context.
 3. **Task Prioritization**: Tasks are ranked using a custom prioritization logic that factors in urgency, importance, and real-time context.
 4. **Dynamic Scheduling**: High-priority tasks are scheduled for completion based on user availability, with tasks and priorities updated dynamically.
 
