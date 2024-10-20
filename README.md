@@ -6,8 +6,6 @@ The **Smart Task Management Android App** is designed to revolutionize how users
 
 **THE APP IS STILL UNDER DEVELOPMENT PHASE**
 
-
-
 ---
 
 ## Features
@@ -26,6 +24,10 @@ The **Smart Task Management Android App** is designed to revolutionize how users
 3. **Task Prioritization**: Tasks are ranked using a custom prioritization logic that factors in urgency, importance, and real-time context.
 4. **Dynamic Scheduling**: High-priority tasks are scheduled for completion based on user availability, with tasks and priorities updated dynamically.
 
-![Use Case]([./images/Picture3.png](https://github.com/syed-ali-jibran-rizvi/MyTaskMan/blob/master/images/Picture1.jpg)) <!-- Replace with actual image path -->
-![DFD Level 0]([./images/Picture1.png](https://github.com/syed-ali-jibran-rizvi/MyTaskMan/blob/master/images/Picture1.jpg)) <!-- Replace with actual image path -->
-![DFD Level 1]([./images/Picture2.png](https://github.com/syed-ali-jibran-rizvi/MyTaskMan/blob/master/images/Picture1.jpg)) <!-- Replace with actual image path -->
+---
+
+## Diagrams
+
+![Use Case](https://github.com/syed-ali-jibran-rizvi/MyTaskMan/blob/master/images/Picture1.jpg) <!-- Ensure the image is correctly uploaded -->
+![DFD Level 0](https://github.com/syed-ali-jibran-rizvi/MyTaskMan/blob/master/images/Picture2.jpg) <!-- Ensure the image is correctly uploaded -->
+![DFD Level 1](https://github.com/syed-ali-jibran-rizvi/MyTaskMan/blob/master/images/Picture3.png) <!-- Ensure the image is correctly uploaded -->
